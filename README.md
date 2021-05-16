@@ -16,7 +16,7 @@
 1. Set webhook url in script
 2. Install requirements `pip install -r requirements.txt`
 3. Compile it using pyinstaller
-4. Done
+4. Done.
 
 ## Showcase (old):
 ![Showcase](https://i.imgur.com/6BAJJ7e.png)
